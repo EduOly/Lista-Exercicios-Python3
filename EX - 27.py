@@ -1,0 +1,6 @@
+print(' '*20)
+nome = str(input('Informe seu nome completo:'))
+no = nome.split()
+print('Seu nome: {}'.format(nome))
+print('Primeiro = {}'.format(no[0]))
+print('Último = {}'.format(no[-1]))
