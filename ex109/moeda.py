@@ -3,30 +3,17 @@ def moeda(x):
 
 def aumentar(x, a, f=False):
     m = x + ((a * x)/100)  
-    if f == True:
-        return moeda(m)
-    else:
-        return m
+    return m if f is False else moeda(m)
 
 def diminuir(x, d, f=False):
     n = x - ((d * x)/100)
-    if f == True:
-        return moeda(n)
-    else:
-        return n
-
+    return n if f is False else moeda(n)
 
 def dobro(x, f=False):
     d = x*2
-    if f == True:
-        return moeda(d)
-    else:
-        return d
+    return d if f is False else moeda(d)
 
 
 def metade(x, f=False):
     m =  x / 2
-    if f == True:
-        return moeda(m)
-    else:
-        return m
+    return m if f is False else moeda(m)

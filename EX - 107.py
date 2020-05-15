@@ -2,7 +2,6 @@
 aumentar(), diminuir(), dobro(), metade().
 Faça também um programa que importe esse módulo e use algumas
 dessas funções'''
-
 from ex107 import moeda
 from cor import box_txt
 
