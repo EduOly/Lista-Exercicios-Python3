@@ -1,17 +1,10 @@
 def leiaDinheiro(x):
-    while True:
-        ok = False
-        v = input(x)
-        if v.isnumeric() or v[:(v.find(','))].isnumeric() or v.find('.') :
-            if v.find('.'):
-                vali = float(v.replace('.', '.'))
-                ok = True
-            vali = float(v.replace(',','.'))
-            ok = True
-                
+    vali = False
+    while not vali:
+        entra = str(input(x)).replace(',','.').strip()
+        if entra.isalpha() or entra == '':
+            print(f'\33[1;31mERRO: \"{entra}\" é um preço inválido!\33[m')
         else:
-            print('\33[1;31m[ERRO] Valor não númerico!\33[m')
-        if ok == True:
-            break
-    return vali
-            
+            vali = True
+            return float(entra)
+        

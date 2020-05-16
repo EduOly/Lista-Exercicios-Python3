@@ -1,6 +1,7 @@
 def aumentar(x, a):
-    return x + ((a * x)/100)  
-    
+    return x + ((a * x)/100)
+    return x   
+
 
 def diminuir(x, d):
     n = x - ((d * x)/100)

@@ -3,43 +3,32 @@ def moeda(x):
 
 def aumentar(x, a, f=False):
     m = x + ((a * x)/100)  
-    if f == True:
-        return moeda(m)
-    else:
-        return m
+    return m if f is False else moeda(m)
 
 def diminuir(x, d, f=False):
     n = x - ((d * x)/100)
-    if f == True:
-        return moeda(n)
-    else:
-        return n
+    return n if f is False else moeda(n)
 
 
 def dobro(x, f=False):
     d = x*2
-    if f == True:
-        return moeda(d)
-    else:
-        return d
+    return d if f is False else moeda(d)
 
 
 def metade(x, f=False):
     m =  x / 2
-    if f == True:
-        return moeda(m)
-    else:
-        return m
+    return m if f is False else moeda(m)
 
-def resumo(x, p, g):
+def resumo(x, p=10, g=5):
     print('\33c')
     print('-'*30)
     print(f"{'|'} {'RESUMO DO VALOR':^26} {'|'}")
     print('-'*30)
-    print(f"""Preço analizado:   {moeda(x)}
-Dobro do preço:    {dobro(x)}
-Metade do preço:   {metade(x, True)}
-{p}% de aumento:    {aumentar(x, p,True)}
-{g}% de redução:    {diminuir(x, g, True)}""")
+    print(f"""Preço analizado: \t{moeda(x)}
+Dobro do preço: \t{dobro(x,True)}
+Metade do preço: \t{metade(x, True)}
+{p}% de aumento: \t{aumentar(x, p,True)}
+{g}% de redução: \t{diminuir(x, g, True)}
+""")
     print('-'*30)
     print()
