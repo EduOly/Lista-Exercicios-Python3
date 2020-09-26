@@ -48,4 +48,38 @@ O número 6.127 tem a parte interia 6.**
 ### **EXE_20**:
 > O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 ### **EXE_21**:
->
+> Faça um programa em Python que abre e reproduza o áudio de um arquivo **MP3**.
+### **EXE_22**:
+> Crie um programa que leia o nome completo de uma pessoa e mostre:
+>- O nome com todas as letras maiúsculas e minúsculas.
+>- Quantas letras ao todo(sem considerar espaços).
+>- Quantas letras tem o primeiro nome.
+### **EXE_23**:
+> Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados.
+Ex:
+Digite um número:1834.
+unidae: 4 dezena: 3 centena: 8 milhar: 1
+### **EXE_24**:
+> Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome **"SANTO"**.
+### **EXE_25**:
+> Crie um programa que leia um nome de uma pessoa e diga se ela tem **"Silva"** no nome.
+### **EXE_26**:
+> Faça um programa que leia uma frase pelo teclado e mostre:
+>- Quantas vezes aparece a letra "A".
+>- Em que posição ela aparece a primeira vez.
+>- Em que posição aparece a última vez.
+### **EXE_27**:
+> Faça um programa que leia o nome completo de uma pessoa mostrando em seguida o primeiro e o último nome separadamente.
+Ex: Ana Maria de Souza
+primeiro =  Ana
+último = Souza
+### **EXE_28**:
+> Escreva um programa que faça o cumputador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar desconbrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+### **EXE_29**:
+> Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ela foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+### **EXE_30**:
+> Crie um programa que leia um número inteiro e mostre na tela se ela é **PAR** ou **INPAR**.
+### **EXE_31**:
+> Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por km para viagens de até 200km e R$0,45 para viagens mais longas.
+### **EXE_32**:
+> 
