@@ -1,6 +1,16 @@
 #  ![ Curso em video logo](img/curso.png) [**Curso em Video**](https://www.cursoemvideo.com/) - Curso de Python 3 
 ## **Mundo 1 [40 Horas]**
 ----
+### Curso Python #01 - Seja um Programador.
+----
+### Curso Python #02 - Para que serve o Python ?
+----
+### Curso Python #03 - Instalando o Python3 e o IDLE
+----
+### Curso Python #04 - Primeiros comandos em Python3
+----
+### Curso Python #05 - Instalado o PyCharm e o QPython3
+----
 ### **EXE_01**:
 > Crie um programa que escreva "olá mundo!" na tela.
 ```python3 
@@ -8,16 +18,22 @@ print('Olá, Mundo!')
 ```
 ### **EXE_02**:
 > Faça um programa que leia o nome de uma pessoa e mostre uma mensgem de boas-vindas.
+### Curso Python #06 - Tipos Primitivos e Saída de Dados
+----
 ### **EXE_03**:
 > Crie um programa que leia dois números e mostre a soma entre eles.
 ### **EXE_04**:
 > Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todos as informações possiveis sobre ele.
+### Curso Python #07 - Operadores Aritméticos
+----
 ### **EXE_05**:
 > Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 ### **EXE_06**:
 > Crie um algoritmo que leia um nuúmero e mostre o seu dobro, triplo e rais quadrada.
 ### **EXE_07**:
 > Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+### Curso Python #08 - Utilizando Módulos
+----
 ### **EXE_08**:
 > Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimimetros.
 ### **EXE_09**:
@@ -92,5 +108,5 @@ Ex: Ana Maria de Souza
 >- r1 -----
 >- r2 --------
 >- r3 ------
-## **Mundo 1 [40 Horas]**
+## **Mundo 2 [40 Horas]**
 ----
