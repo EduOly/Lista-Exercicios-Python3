@@ -65,6 +65,8 @@ O número 6.127 tem a parte interia 6.**
 > O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 ### **EXE_21**:
 > Faça um programa em Python que abre e reproduza o áudio de um arquivo **MP3**.
+### Curso Python #09 - Manipulando Texto
+----
 ### **EXE_22**:
 > Crie um programa que leia o nome completo de uma pessoa e mostre:
 >- O nome com todas as letras maiúsculas e minúsculas.
@@ -89,6 +91,7 @@ unidae: 4 dezena: 3 centena: 8 milhar: 1
 Ex: Ana Maria de Souza
 >- primeiro =  Ana
 >- último = Souza
+### Curso Python #10 - Condições (Parte 1)
 ### **EXE_28**:
 > Escreva um programa que faça o cumputador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar desconbrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 ### **EXE_29**:
@@ -108,5 +111,7 @@ Ex: Ana Maria de Souza
 >- r1 -----
 >- r2 --------
 >- r3 ------
+### Curso Python #11 - Cores no Terminal
+----
 ## **Mundo 2 [40 Horas]**
 ----
