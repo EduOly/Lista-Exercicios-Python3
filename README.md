@@ -71,8 +71,8 @@ unidae: 4 dezena: 3 centena: 8 milhar: 1
 ### **EXE_27**:
 > Faça um programa que leia o nome completo de uma pessoa mostrando em seguida o primeiro e o último nome separadamente.
 Ex: Ana Maria de Souza
-primeiro =  Ana
-último = Souza
+>- primeiro =  Ana
+>- último = Souza
 ### **EXE_28**:
 > Escreva um programa que faça o cumputador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar desconbrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 ### **EXE_29**:
@@ -82,4 +82,15 @@ primeiro =  Ana
 ### **EXE_31**:
 > Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por km para viagens de até 200km e R$0,45 para viagens mais longas.
 ### **EXE_32**:
-> 
+> Faça um programa que leia um ano qualquer e mostre se ele é **BISSEXTO**.
+### **EXE_33**:
+> Faça um programa que leia três número e mostre qual é o maior e qual é o menor.
+### **EXE_34**:
+> Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1.250,00 , calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+### **EXE_35**:
+> Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+>- r1 -----
+>- r2 --------
+>- r3 ------
+## **Mundo 1 [40 Horas]**
+----
