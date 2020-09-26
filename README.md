@@ -1,4 +1,4 @@
-#  ![ Curso em video logo](img/curso.png) [**Curso em Video**](https://www.cursoemvideo.com/) - Curso Python 3 
+#  ![ Curso em video logo](img/curso.png) [**Curso em Video**](https://www.cursoemvideo.com/) - Curso de Python 3 
 ## **Mundo 1 [40 Horas]**
 ----
 ### **EXE_01**:
@@ -35,3 +35,17 @@ print('Olá, Mundo!')
 > Escreva um programa que converta uma temperatura digitada em ºC e converta para ºF.
 ### **EXE_15**:
 > Escreva um programa que pergunte a quantidade de km percirrido por um carro alugado e a quantidade de dias pelas quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa **R$60** por dia e **R$0,15** por Km rodado.
+### **EXE_16**:
+> Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira.
+**EX:Digite um número:6.127.
+O número 6.127 tem a parte interia 6.**
+### **EXE_17**:
+> Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
+### **EXE_18**:
+> Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, casseno e tangente desse ângulo.
+### **EXE_19**:
+> Um profressor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajuda ele, lendo o nome deles e escrevendo o nome do escolhido.
+### **EXE_20**:
+> O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+### **EXE_21**:
+>
