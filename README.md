@@ -111,7 +111,23 @@ Ex: Ana Maria de Souza
 >- r1 -----
 >- r2 --------
 >- r3 ------
-### Curso Python #11 - Cores no Terminal
+### Curso Python #011 - Cores no Terminal
 ----
 ## **Mundo 2 [40 Horas]**
 ----
+### Curso Python #012 - Condições Aninhadas 
+----
+### **EXE_36**:
+> Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal, não pode execeder 30% do salário ou então o empréstimo será negado.
+### **EXE_37**:
+> Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
+>- 1 para binário
+>- 2 para octal
+>- 3 para hexadecimal
+### **EXE_38**:
+> Escreva um programa que leia dois números inteiros e compare-os, mostrando na tela uma mensagem:
+>- O primeiro valor é maior 
+>- O segundo valor é maior 
+>- Não existe valor maior, os dois são iguais 
+### **EXE_39**:
+> Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistare ao seviço militar. Seu programa também deverá mostra o tempo que falta ou que passou do prazo.
