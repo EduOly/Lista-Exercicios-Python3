@@ -131,3 +131,83 @@ Ex: Ana Maria de Souza
 >- Não existe valor maior, os dois são iguais 
 ### **EXE_39**:
 > Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistare ao seviço militar. Seu programa também deverá mostra o tempo que falta ou que passou do prazo.
+### **EXE_40**:
+> Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atigida:
+>- Média abaixo de 5.0: **REPROVADO**
+>- Média entre 5.0 e 6.9:**RECUPERAÇÃO**
+>- Média 7.0 ou superior:**APROVADO**
+### **EXE_41**:
+> A Confederação Nacional de Notação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria de acordo com a idade:
+>- Até 9 anos:**MIRIN**
+>- Até 14 anos:**INFANTIL**
+>- Até 19 anos:**JUNIOR**
+>- Até 25 anos:**SÉNIOR**
+>- Acima:**MASTER**
+### **EXE_42**:
+> Refaça o desafio 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+>- **Equilátero:**todos os lados iguais
+>- **Isósceles:**dois lados iguais
+>- **Escaleno:**todos os lados diferentes
+### **EXE_43**:
+> Desenvolva uma lógico que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo:
+>- Abaixo de 18.5:Abaixo do peso
+>- Entre 18.5 e 25:Peso ideal
+>- 25 até 30:Sobrepeso
+>- 30 até 40:Obesidade
+>- Acima de 40:Obesidade mórbida
+### **EXE_44**:
+> Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+>- Á vista **dinheiro/cheque**: 10% de desconto
+>- Á vista no **cartão**: 5% de desconto
+>- Em até **2x no cartão**: preço normal
+>- **3x ou mais** no cartão: 20% de juros
+### **EXE_45**:
+> Crie um programa que façã o computador jogar **Jokenpô** com você.
+### Curso Python #13 - Estrutura de repetição for
+----
+### **EXE_46**:
+> Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artificio, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+### **EXE_47**:
+> Crie uma programa que mostre ma tela todos os números pares que estão no intervalo entre 1 e 50.
+### **EXE_48**:
+> Faça um programa que calcule a soma entre todos os números impares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+### **EXE_49**:
+> Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+### **EXE_50**:
+> Desenvolva um programa que leia seis números inteiros e mostrea soma apenas daqueles que foram pares. Se o valor digitado for impar, desconsidere-o.
+### **EXE_51**:
+> Desenvolva um programa que leia o primeiro termo e a razão de uma RA. No final, mostre os 10 primeiros termos dessa progressão.
+### **EXE_52**:
+> Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+### **EXE_53**:
+> Crie um programa que leia uma frase qualquer e diga se ela é um **polindromo, desconsiderando os espaços.
+### **EXE_54**:
+> Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+### **EXE_55**:
+> Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior peso lido.
+### **EXE_56**:
+> Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre:
+>- A média de idade do grupo.
+>- Qual é o nome do homen mais velho.
+>- Quantas mulheres têm menos de 20 anos.
+### Curso Python #14 - Estrutura de repetição while
+----
+### **EXE_57**:
+> Faça um programa que leia o sexo de uma pessoam, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor corrento.
+### **EXE_58**:
+> Melhore o jogo do **DESAFIO 028** onde o computador vai "pensar" em um número entre 0 e 10. Só que agora o jagador vai tentar adivinhar até  acertar, mostrando no final quando palpites foram necessário para vencer.
+### **EXE_59**:
+> Crie um programa que leia dois valores e mostre um menu como o abaixo:
+Seu programa deverá realizar a operação solicitada em cada caso.
+>- [ 1 ] Somar
+>- [ 2 ] Multiplicar
+>- [ 3 ] Maior
+>- [ 4 ] Novos númeos
+>- [ 5 ] Sair do programa 
+### **EXE_60**:
+> Faça um programa que leia número qualquer e mostre o seu fatorial.
+Ex: 5!=5x4x3x2x1 = 120
+### **EXE_61**:
+> Refaça o **Desafio 051**, lendo o primeiro termo e a razão de um PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
+### **EXE_62**:
+> Melhore o **Desafio 061**, perguntando para o suruário se ele quer mostrer mais alguns termos. O programa encerra quando ele disser que quer mostrar O termos.
