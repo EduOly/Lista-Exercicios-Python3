@@ -211,3 +211,32 @@ Ex: 5!=5x4x3x2x1 = 120
 > Refaça o **Desafio 051**, lendo o primeiro termo e a razão de um PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
 ### **EXE_62**:
 > Melhore o **Desafio 061**, perguntando para o suruário se ele quer mostrer mais alguns termos. O programa encerra quando ele disser que quer mostrar O termos.
+### **EXE_63**:
+> Escreva um programa que leia um número **n** inteiro qualquer e mostre na tela os **n** primeiros elementos de uma sequência de Fibonacci.
+**Ex: 0 -> 1 -> 1 -> 2 -> 3 -> 5 -> 8**
+### **EXE_64**:
+> Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parado. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando flag).
+### **EXE_65**:
+> Crie um programa que leia vários números inteiros pelo teclado. No final de execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
+### Curso Python #15 - Interrompendo repetições while
+----
+### **EXE_66**:
+>  Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condiçõe de parada. No final, mostre quantos números foram digitado e qual foi a soma entre eles(desconsiderando o flag).
+### **EXE_67**:
+> Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.
+### **EXE_68**:
+> Faça um programa que jogue **par ou impar** com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+### **EXE_69**:
+> Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
+>- A ) Quantoas pessoas tem mais de 18 anos.
+>- B ) Quantos homens foram cadastrados.
+>- C ) Quantas mulheres tem menos de 20 anos.
+### **EXE_70**:
+> Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre:
+>- A ) Qual é o total gasto na compra
+>- B ) Quantos produtos custam mais de R$10.000
+>- C ) Qual é o nome do produto mais barato
+### **EXE_71**:
+> Crie um programa que simule o funcionamento de um caixa eletrônico. No inicio, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
+## **Mundo 3 [40 Horas]**
+----
