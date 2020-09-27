@@ -3,13 +3,13 @@
 ----
 ### Curso Python #01 - Seja um Programador.
 ----
-### Curso Python #02 - Para que serve o Python ?
+### Curso Python #02 - Para que serve o Python ?.
 ----
-### Curso Python #03 - Instalando o Python3 e o IDLE
+### Curso Python #03 - Instalando o Python3 e o IDLE.
 ----
-### Curso Python #04 - Primeiros comandos em Python3
+### Curso Python #04 - Primeiros comandos em Python3.
 ----
-### Curso Python #05 - Instalado o PyCharm e o QPython3
+### Curso Python #05 - Instalado o PyCharm e o QPython3.
 ----
 ### **EXE_01**:
 > Crie um programa que escreva "olá mundo!" na tela.
@@ -17,8 +17,8 @@
 print('Olá, Mundo!')
 ```
 ### **EXE_02**:
-> Faça um programa que leia o nome de uma pessoa e mostre uma mensgem de boas-vindas.
-### Curso Python #06 - Tipos Primitivos e Saída de Dados
+> Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+### Curso Python #06 - Tipos Primitivos e Saída de Dados.
 ----
 ### **EXE_03**:
 > Crie um programa que leia dois números e mostre a soma entre eles.
@@ -29,13 +29,13 @@ print('Olá, Mundo!')
 ### **EXE_05**:
 > Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 ### **EXE_06**:
-> Crie um algoritmo que leia um nuúmero e mostre o seu dobro, triplo e rais quadrada.
+> Crie um algoritmo que leia um número e mostre o seu dobro, triplo e rais quadrada.
 ### **EXE_07**:
 > Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 ### Curso Python #08 - Utilizando Módulos
 ----
 ### **EXE_08**:
-> Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimimetros.
+> Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimetros.
 ### **EXE_09**:
 > Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 ### **EXE_10**:
@@ -50,7 +50,7 @@ print('Olá, Mundo!')
 ### **EXE_14**:
 > Escreva um programa que converta uma temperatura digitada em ºC e converta para ºF.
 ### **EXE_15**:
-> Escreva um programa que pergunte a quantidade de km percirrido por um carro alugado e a quantidade de dias pelas quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa **R$60** por dia e **R$0,15** por Km rodado.
+> Escreva um programa que pergunte a quantidade de km percorrido por um carro alugado e a quantidade de dias pelas quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa **R$60** por dia e **R$0,15** por Km rodado.
 ### **EXE_16**:
 > Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira.
 **EX:Digite um número:6.127.
@@ -78,7 +78,7 @@ Ex:
 Digite um número:1834.
 unidae: 4 dezena: 3 centena: 8 milhar: 1
 ### **EXE_24**:
-> Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome **"SANTO"**.
+> Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome **"Santo"**.
 ### **EXE_25**:
 > Crie um programa que leia um nome de uma pessoa e diga se ela tem **"Silva"** no nome.
 ### **EXE_26**:
@@ -93,7 +93,7 @@ Ex: Ana Maria de Souza
 >- último = Souza
 ### Curso Python #10 - Condições (Parte 1)
 ### **EXE_28**:
-> Escreva um programa que faça o cumputador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar desconbrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+> Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar desconbrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 ### **EXE_29**:
 > Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ela foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
 ### **EXE_30**:
