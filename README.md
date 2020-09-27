@@ -240,3 +240,19 @@ Ex: 5!=5x4x3x2x1 = 120
 > Crie um programa que simule o funcionamento de um caixa eletrônico. No inicio, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
 ## **Mundo 3 [40 Horas]**
 ----
+### Curso Python #16 - Tupla
+----
+### **EXE_72**:
+> Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
+Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
+### **EXE_73**:
+> Crie uma lista preenchida com os 20 primeiros colocados da Tabela do **Compeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
+>- A ) Os 5 primeiros
+>- B ) Os últimos 4 colocados
+>- C ) Time em ordem alfabética.
+>- D ) Em que posição está o time da Chapecoense
+### **EXE_74**:
+> Crie um programa que vai gerar cinco números aleatórios e colocar em tupla. Depois disse, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
+### **EXE_74**:
+> 
+
