@@ -122,7 +122,7 @@ Ex: Ana Maria de Souza
 ### **EXE_37**:
 > Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
 >- 1 para binário
->- 2 para octal
+>- 2 para octal 
 >- 3 para hexadecimal
 ### **EXE_38**:
 > Escreva um programa que leia dois números inteiros e compare-os, mostrando na tela uma mensagem:
@@ -145,9 +145,9 @@ Ex: Ana Maria de Souza
 >- Acima:**MASTER**
 ### **EXE_42**:
 > Refaça o desafio 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
->- **Equilátero:**todos os lados iguais
->- **Isósceles:**dois lados iguais
->- **Escaleno:**todos os lados diferentes
+>- **Equilátero:** todos os lados iguais
+>- **Isósceles:** dois lados iguais
+>- **Escaleno:** todos os lados diferentes
 ### **EXE_43**:
 > Desenvolva uma lógico que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo:
 >- Abaixo de 18.5:Abaixo do peso
