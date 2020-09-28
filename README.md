@@ -236,150 +236,287 @@ Ex: 5!=5x4x3x2x1 = 120
 >- A ) Qual é o total gasto na compra
 >- B ) Quantos produtos custam mais de R$10.000
 >- C ) Qual é o nome do produto mais barato
-### **EXE_71**:
+
+### **EXE_71**
+
 > Crie um programa que simule o funcionamento de um caixa eletrônico. No inicio, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
+
 ## **Mundo 3 [40 Horas]**
+
 ----
+
 ### Curso Python #16 - Tupla
+
 ----
-### **EXE_72**:
+
+### **EXE_72**
+
 > Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
 Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
-### **EXE_73**:
+
+### **EXE_73**
+
 > Crie uma lista preenchida com os 20 primeiros colocados da Tabela do **Compeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
+
 >- A ) Os 5 primeiros
+
 >- B ) Os últimos 4 colocados
+
 >- C ) Time em ordem alfabética.
+
 >- D ) Em que posição está o time da Chapecoense
-### **EXE_74**:
+
+### **EXE_74**
+
 > Crie um programa que vai gerar cinco números aleatórios e colocar em tupla. Depois disse, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
-### **EXE_74**:
+
+### **EXE_74**
+
 > Crie um programa que vai gerar cinco números aleatório e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
-### **EXE_75**:
+
+### **EXE_75**
+
 > Desenvolva um programa que leia quatro valores pelo teclado e quarde-os em uma tupla. No final. mostre:
+
 >- A ) Quantas vezes apareceu o valor 9.
+
 >- B ) Em que posição foi digitado o primeiro valor 3.
+
 >- C ) Quais foram os números pares.
-### **EXE_76**:
+
+### **EXE_76**
+
 > Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+
 ### **EXE_77**:
+
 > Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostra, para cada palavra, quais são as suas vogais.
+
 ### Curso Python #17 - Lista(Parte1)
+
 ----
-### **EXE_78**:
+
+### **EXE_78**
+
 > Faça um programa que leia 5 valores numéricos e quarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
-### **EXE_79**:
+
+### **EXE_79**
+
 > Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já existe lá dentro, ele não será adicionado. No final, serão exibidos todos os valore únicos digitados, em ordem crescente.
-### **EXE_80**:
+
+### **EXE_80**
+
 > Crie um programa onde o usuário posso digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usor o sort()). No final, mostre a lista ordenada na tela.
-### **EXE_81**:
+
+### **EXE_81**
+
 > Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre:
+
 >- A) Quantos números foram digitados.
+
 >- B) A lista de valores, ordenada de forma decrescente.
+
 >- C) Se o valor 5 foi digitado e está ou não na lista.
-### **EXE_82**:
+
+### **EXE_82**
+
 > Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas lista extras que vão conter apenas os valores pares e os valores impares digitados, respectivamento. Ao final, mostre o conteúdo das três listas geradas.
-### **EXE_83**:
+
+### **EXE_83**
+
 > Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+
 ### Curso Python #17 - Listas (Parte 2)
+
 ----
-### **EXE_84**:
+
+### **EXE_84**
+
 > Faça um proframa que leia nome e peso de vários pessosas, quardando tudo em uma lista. No final, mostre:
+
 >- A ) Quantas pessosas foram cadastradas.
+
 >- B ) Uma listagem com os pessoas mais pesadas.
+
 >- C ) Uma listagem com as pessoas mais leves.
-### **EXE_85**:
+
+### **EXE_85**
 > Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e impares. No final, mostre os valores pares e impares em ordem crecentre.
-### **EXE_86**:
+
+### **EXE_86**
+
 > Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
 No final, mostre a matriz na tela, com a formatação correta.
----
+
+----
+
 ![Matriz 3x3](img/3x3.png)
-### **EXE_87**:
+
+### **EXE_87**
+
 > Aprimore o desafio anterior, mostrando no final:
+
 >- A ) A soma de todos os valores pares digitados.
+
 >- B ) A soma dos valores da terceira coluna.
+
 >- C) O maior valor da segunda linha.
+
 ---
+
 ![Matriz 3x3](img/3x3.png)
-### **EXE_88**:
+
+### **EXE_88**
+
 > Faça um programa que ajude um jogador da **Mega Sena** a criar palpites. O programa vai perguntar quantos jogos serão gerados e vai sortear6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
-### **EXE_89**:
+
+### **EXE_89**
+
 > Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim mostrar as notas de cada aluno individualmente.
+
 ### Curso Python #19 - Dicionários
+
 ----
-### **EXE_90**:
+
+### **EXE_90**
+
 > Faça um programa que leia nom e média de um aluno, quardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
-### **EXE_91**:
+
+### **EXE_91**
+
 > Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatório. Guarde esses resultados em um dicinário. No final, coloque esse docionário em ordem, sobendo que o vencedor tirou o maior números no dado.
-### ***EXE_92**:
+
+### ***EXE_92**
+
 > Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário se por acaso a CRPS for diferente de Zero, o dicionário  receberá também o ano de contratação e o salário. Calcule e acrecente, além da idade, com quantos anos a pessoa vai s aposentar.
-### **EXE_93**:
+
+### **EXE_93**
+
 >  Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
-### **EXE_94**:
+
+### **EXE_94**
+
 > Crie um programa que leia nome, sexo e idade de várias ṕessoas, quardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre:
+
 >- A ) Quantas pessoas cadastradas.
+
 >- B ) A média de idade.
+
 >- C ) Uma lista com mulheres.
+
 >- D ) Uma lista com idade acima da média.
-### **EXE_95**:
+
+### **EXE_95**
+
 > Aprimore o **Desafio093** para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamaneto de cada jogador.
+
 ### Curso Python #20 - Funções (Parte 1)
+
 ----
-### **EXE_96**:
+
+### **EXE_96**
+
 > Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
-### **EXE_97**:
+
+### **EXE_97**
+
 > Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptáveis.
-### **EXE_98**:
+
+### **EXE_98**
+
 > Faça um programa que tenha uma função chamada contador(), que receba três parâmentro: inicio, fim e passo. Seu programa tem que realizar três contagens através da função criada:
->- A ) De 1 até 10, de 1 em 1
->- B ) De 1o até 0, de 2 em 2 
+
+>- A ) De 1 até 10, de 1 em 1.
+
+>- B ) De 1o até 0, de 2 em 2.
+
 >- C ) Uma contagem pesonalizada.
-### **EXE_99**:
+
+### **EXE_99**
+
 > Faça um programa que tenha uma função chamada maior(), que receba vários parâmentros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
-### **EXE_100**:
+
+### **EXE_100**
+
 > Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e soma Par(). A primeira função vai sortear 5 números e vai colocá-los dentro da listaa e a segunda função vai mostrar a soma entre todos os calores PARES sorteados pela função anterior.
+
 ### Curso Python #21 - Funções (Parte 2)
+
 ----
-### **EXE_101**:
+
+### **EXE_101**
+
 > Crie um programa que tenha uma função chamada voto() que vai rereber como parâmentros o ano de nascimento de uma pessoa, retornando um valor literal indicando uma pessoa tem voto **NEGADO**, **OPCIONAL** ou **OBRIGATÓRIO** nas eleições.
-### **EXE_102**:
+
+### **EXE_102**
+
 > Crie um programa que tenha uma função fatorial() que receba dois parâmentros: o primeiro que indique o número a calcular e o outro chamado show, que será um valor lógico(opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
-### **EXE_103**:
+
+### **EXE_103**
+
 > Faça um programa que tenha uma função chamado ficha(), que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
-### **EXE_104**:
+
+### **EXE_104**
+
 > Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante à função input() do Python, só que fazendo a validação para aceitar apenas um valor numérico.
 Ex:
 n = leiaInt('Digite um n')
-### **EXE_105**:
+
+### **EXE_105**
+
 > Faça um programa que tenha uma função notas() que pode recebar vários notas de alunos e vai retornar um dicionário com as seguintes informações:
->- Quantidade de notas 
->- A Maior nota 
->- A Menor nota
+
+>- Quantidade de notas
+
+>- A Maior nota.
+
+>- A Menor nota.
+
 >- A Média da turma
+
 >- A Situação (opcional) Adicione também as docstrings.
-### **EXE_106**:
+
+### **EXE_106**
+
 > Faça um mini-sistema que utilize o interactive help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digirar a palavra **"FIM"**, o programa se encerrará.
+
 ### Curso Python #22 - Módulos e Pacotes
----
-### **EXE_107**:
+
+----
+
+### **EXE_107**
+
 > Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro() metade().
 Faça também um programa que importe esse módulo e use algumas dessas funções.
-### **EXE_108**:
+
+### **EXE_108**
+
 > Adapte o código do **Desafio 107**, criando uma função adicional chamada moeda() que consiga os valores como um valor monetário formatado.
-### **EXE_109**:
+
+### **EXE_109**
+
 > Modifique as funções que foram criadas no **Desafio 107** para que elas aceitem um parâmetro a mais, informoando se o valor retornado por elas vai ser ou não formatado pelo funções moeda(), desenvolvida no **Desafio 108**.
-### **EXE_110**:
+
+### **EXE_110**
+
 > Adicione ao módulo moeda.py criado nos desafios anteriores, uma função chamada resumo(), que mostre ma tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
-### **EXE_111**:
+
+### **EXE_111**
+
 > Crie um pacote chamado utilidadesCev que tenha dois módulos internos chamados moeda e dado. Tranasfira todas as funções utilizandos nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
-### **EXE_112**:
+
+### **EXE_112**
+
 > Dentro do pacote utilidadesCev que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
+
 ### Curso Python #23 - Tratamento de Erros e Exeções
+
 ----
-### **EXE_113**:
+
+### **EXE_113**
+
 > Reescreva a função leiaint() que fizemos no **Desafio 104**, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
-### **EXE_114**:
+
+### **EXE_114**
+
 > Crie um código em Pytho que teste se o site **Pudim** está acessivel pelo computador usado.
-
-
