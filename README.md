@@ -268,3 +268,30 @@ Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por
 ----
 ### **EXE_78**:
 > Faça um programa que leia 5 valores numéricos e quarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
+### **EXE_79**:
+> Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já existe lá dentro, ele não será adicionado. No final, serão exibidos todos os valore únicos digitados, em ordem crescente.
+### **EXE_80**:
+> Crie um programa onde o usuário posso digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usor o sort()). No final, mostre a lista ordenada na tela.
+### **EXE_81**:
+> Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre:
+>- A) Quantos números foram digitados.
+>- B) A lista de valores, ordenada de forma decrescente.
+>- C) Se o valor 5 foi digitado e está ou não na lista.
+### **EXE_82**:
+> Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas lista extras que vão conter apenas os valores pares e os valores impares digitados, respectivamento. Ao final, mostre o conteúdo das três listas geradas.
+### **EXE_83**:
+> Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+### Curso Python #17 - Listas (Parte 2)
+----
+### **EXE_84**:
+> Faça um proframa que leia nome e peso de vários pessosas, quardando tudo em uma lista. No final, mostre:
+>- A ) Quantas pessosas foram cadastradas.
+>- B ) Uma listagem com os pessoas mais pesadas.
+>- C ) Uma listagem com as pessoas mais leves.
+### **EXE_85**:
+> Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e impares. No final, mostre os valores pares e impares em ordem crecentre.
+### **EXE_86**:
+> Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
+No final, mostre a matriz na tela, com a formatação correta.
+---
+![Matriz 3x3](img/3x3.png)
