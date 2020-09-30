@@ -1,4 +1,6 @@
-#  ![ Curso em video logo](img/curso.png) [**Curso em Video**](https://www.cursoemvideo.com/)
+#  ![ Curso em video logo](img/curso.png) 
+***
+[**Curso em Video**](https://www.cursoemvideo.com/) -
 Curso de Python 3 :v:
 
 ## **Mundo 1 [40 Horas]**
